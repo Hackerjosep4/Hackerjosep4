@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hackerjosep4
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Javaacript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
